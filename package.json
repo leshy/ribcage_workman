@@ -1,0 +1,24 @@
+{
+  "name": "ribcage_workman",
+  "version": "1.0.0",
+  "description": "[ribcage](https://github.com/leshy/ribcage) bindings for [workman](https://github.com/leshy/workman)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leshy/ribcage_workman.git"
+  },
+  "keywords": [],
+  "author": "lesh <lesh@sysphere.org> (http://lesh.sysphere.org)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leshy/ribcage_workman/issues"
+  },
+  "homepage": "https://github.com/leshy/ribcage_workman#readme"
+  "dependencies": {
+    "backbone4000": "git://github.com/leshy/backbone4000.git",
+    "leshdash": "git://github.com/leshy/leshdash.git"
+  }
+}
