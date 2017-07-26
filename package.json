@@ -16,9 +16,13 @@
   "bugs": {
     "url": "https://github.com/leshy/ribcage_workman/issues"
   },
-  "homepage": "https://github.com/leshy/ribcage_workman#readme"
+  "homepage": "https://github.com/leshy/ribcage_workman#readme",
   "dependencies": {
     "backbone4000": "git://github.com/leshy/backbone4000.git",
     "leshdash": "git://github.com/leshy/leshdash.git"
+  },
+  "devDependencies": {
+    "livescript": "^1.5.0",
+    "mocha": "^3.4.2"
   }
 }
